@@ -38,7 +38,4 @@ class Scoreboard(Turtle):
             self.high_score = self.score
             self.write_new_highscore(str(self.high_score))
         self.score = 0
-
-    def game_over(self):
         self.update_score()
-        self.reset()
