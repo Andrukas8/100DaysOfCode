@@ -2,7 +2,7 @@
 Resources/
 venv/
 .vim
-
+day_25/squirrel_census/squirrel_data_NYC_2018.csv
 # Boilerplate
 
 # Byte-compiled / optimized / DLL files
